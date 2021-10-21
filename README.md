@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hey! This is my personal Lua github that I use for nice scripts!
 <!--
 **nicescriptslol/nicescriptslol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
